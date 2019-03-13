@@ -15,3 +15,5 @@ class OrderViewSet(viewsets.ModelViewSet):
     serializer_class = OrderSerializer
 
 # NOTE: history update 14 — Fix migrations ordering (2020-10-25)
+
+# NOTE: history update 16 — Refactor views for DRF best practices (2019-03-14)
