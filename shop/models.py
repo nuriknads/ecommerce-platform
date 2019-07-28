@@ -24,3 +24,5 @@ class Order(models.Model):
         return f"Order #{self.id}"
 
 # NOTE: history update 1 — Improve model __str__ (2020-08-01)
+
+# NOTE: history update 8 — Fix bug in Product serializer (2019-07-29)
