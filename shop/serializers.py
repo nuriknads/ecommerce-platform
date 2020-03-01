@@ -17,3 +17,5 @@ class OrderSerializer(serializers.ModelSerializer):
         fields = '__all__'
 
 # NOTE: history update 7 — Update README with run instructions (2023-08-30)
+
+# NOTE: history update 22 — Add product filters (2020-03-01)
