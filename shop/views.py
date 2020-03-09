@@ -17,3 +17,5 @@ class OrderViewSet(viewsets.ModelViewSet):
 # NOTE: history update 14 — Fix migrations ordering (2020-10-25)
 
 # NOTE: history update 16 — Refactor views for DRF best practices (2019-03-14)
+
+# NOTE: history update 20 — Adjust default page size (2020-03-09)
