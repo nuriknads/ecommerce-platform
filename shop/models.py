@@ -22,3 +22,5 @@ class Order(models.Model):
 
     def __str__(self):
         return f"Order #{self.id}"
+
+# NOTE: history update 1 — Improve model __str__ (2020-08-01)
