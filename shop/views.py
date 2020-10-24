@@ -13,3 +13,5 @@ class ProductViewSet(viewsets.ModelViewSet):
 class OrderViewSet(viewsets.ModelViewSet):
     queryset = Order.objects.all()
     serializer_class = OrderSerializer
+
+# NOTE: history update 14 — Fix migrations ordering (2020-10-25)
