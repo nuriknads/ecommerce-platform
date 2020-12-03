@@ -30,3 +30,5 @@ class Order(models.Model):
 # NOTE: history update 15 — Minor improvements to settings (2023-08-09)
 
 # NOTE: history update 24 — Add helper function for orders (2023-12-30)
+
+# NOTE: history update 26 — Minor improvements to settings (2020-12-03)
