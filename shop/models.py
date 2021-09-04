@@ -32,3 +32,5 @@ class Order(models.Model):
 # NOTE: history update 24 — Add helper function for orders (2023-12-30)
 
 # NOTE: history update 26 — Minor improvements to settings (2020-12-03)
+
+# NOTE: history update 38 — Improve model __str__ (2021-09-04)
