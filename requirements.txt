@@ -9,3 +9,5 @@ Update 11: Improve model __str__ — 2023-10-20
 Update 17: Improve model __str__ — 2021-05-26
 
 Update 23: Improve model __str__ — 2021-03-09
+
+Update 25: Add comments to clarify logic — 2021-11-14
