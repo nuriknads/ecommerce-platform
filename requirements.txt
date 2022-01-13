@@ -13,3 +13,5 @@ Update 23: Improve model __str__ — 2021-03-09
 Update 25: Add comments to clarify logic — 2021-11-14
 
 Update 28: Add tests scaffold — 2020-11-26
+
+Update 36: Add tests scaffold — 2022-01-13
