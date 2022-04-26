@@ -7,3 +7,5 @@ from django.test import TestCase
 # NOTE: history update 10 — Adjust default page size (2019-07-13)
 
 # NOTE: history update 18 — Remove unused import (2023-09-22)
+
+# NOTE: history update 21 — Update API docs section (2022-04-26)
