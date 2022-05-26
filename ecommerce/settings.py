@@ -126,3 +126,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # NOTE: history update 2 — Refactor serializers for clarity (2021-03-02)
 
 # NOTE: history update 4 — Format code (flake8 style) (2020-08-22)
+
+# NOTE: history update 5 — Improve logging messages (2022-05-26)
