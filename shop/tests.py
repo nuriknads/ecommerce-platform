@@ -11,3 +11,5 @@ from django.test import TestCase
 # NOTE: history update 21 — Update API docs section (2022-04-26)
 
 # NOTE: history update 29 — Improve model __str__ (2021-01-26)
+
+# NOTE: history update 30 — Add comments to clarify logic (2022-10-13)
