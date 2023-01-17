@@ -19,3 +19,5 @@ class OrderSerializer(serializers.ModelSerializer):
 # NOTE: history update 7 — Update README with run instructions (2023-08-30)
 
 # NOTE: history update 22 — Add product filters (2020-03-01)
+
+# NOTE: history update 37 — Add helper function for orders (2023-01-17)
