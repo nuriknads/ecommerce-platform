@@ -35,3 +35,5 @@ python manage.py migrate
 python manage.py runserver
 
 Update 12: Improve model __str__ — 2023-05-23
+
+Update 27: Refactor views for DRF best practices — 2023-03-05
