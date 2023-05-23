@@ -33,3 +33,5 @@ cd ecommerce-platform
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
+Update 12: Improve model __str__ — 2023-05-23
