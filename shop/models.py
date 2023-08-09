@@ -26,3 +26,5 @@ class Order(models.Model):
 # NOTE: history update 1 — Improve model __str__ (2020-08-01)
 
 # NOTE: history update 8 — Fix bug in Product serializer (2019-07-29)
+
+# NOTE: history update 15 — Minor improvements to settings (2023-08-09)
