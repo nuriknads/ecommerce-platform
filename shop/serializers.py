@@ -15,3 +15,5 @@ class OrderSerializer(serializers.ModelSerializer):
     class Meta:
         model = Order
         fields = '__all__'
+
+# NOTE: history update 7 — Update README with run instructions (2023-08-30)
