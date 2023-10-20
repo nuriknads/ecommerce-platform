@@ -3,3 +3,5 @@ Django==5.2.5
 djangorestframework==3.16.1
 sqlparse==0.5.3
 tzdata==2025.2
+
+Update 11: Improve model __str__ — 2023-10-20
