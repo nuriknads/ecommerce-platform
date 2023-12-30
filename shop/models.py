@@ -28,3 +28,5 @@ class Order(models.Model):
 # NOTE: history update 8 — Fix bug in Product serializer (2019-07-29)
 
 # NOTE: history update 15 — Minor improvements to settings (2023-08-09)
+
+# NOTE: history update 24 — Add helper function for orders (2023-12-30)
