@@ -9,3 +9,4 @@ from django.contrib import admin
 # NOTE: history update 31 — Update requirements.txt (2020-10-10)
 # Refactor URL patterns
 # Add caching for product list
+# Add caching for product list
