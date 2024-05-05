@@ -21,3 +21,4 @@ class OrderSerializer(serializers.ModelSerializer):
 # NOTE: history update 22 — Add product filters (2020-03-01)
 
 # NOTE: history update 37 — Add helper function for orders (2023-01-17)
+# Improve error handling in views
