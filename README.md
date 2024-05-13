@@ -46,3 +46,4 @@ Update 35: Improve API response for products — 2019-09-30
 # Add constants for repeated values
 # Refactor model relationships
 # Improve model __str__ representation
+# Refactor views for clarity
