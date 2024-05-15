@@ -19,3 +19,4 @@ from django.test import TestCase
 # Optimize database queries
 # Add constants for repeated values
 # Improve logging messages
+# Refactor tests for better coverage
