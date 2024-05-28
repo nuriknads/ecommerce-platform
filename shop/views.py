@@ -28,3 +28,4 @@ class OrderViewSet(viewsets.ModelViewSet):
 # Fix bug in order calculation
 # Improve test performance
 # Fix bug in admin filter
+# Add caching for product list
