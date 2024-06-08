@@ -30,3 +30,4 @@ class OrderSerializer(serializers.ModelSerializer):
 # Improve API pagination
 # Refactor model relationships
 # Improve test performance
+# Update README with deployment steps
