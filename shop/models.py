@@ -42,3 +42,4 @@ class Order(models.Model):
 # Refactor serializers for DRY principle
 # Add caching for product list
 # Refactor serializers for DRY principle
+# Improve test performance
