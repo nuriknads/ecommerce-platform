@@ -16,3 +16,4 @@ Update 28: Add tests scaffold — 2020-11-26
 
 Update 36: Add tests scaffold — 2022-01-13
 # Optimize database queries
+# Enhance API response format
