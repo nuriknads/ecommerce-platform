@@ -20,3 +20,4 @@ Update 36: Add tests scaffold — 2022-01-13
 # Update README with deployment steps
 # Improve performance for large datasets
 # Fix typo in README
+# Fix bug in admin filter
