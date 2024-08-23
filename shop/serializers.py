@@ -24,3 +24,4 @@ class OrderSerializer(serializers.ModelSerializer):
 # Improve error handling in views
 # Improve API pagination
 # Update docstrings for clarity
+# Refactor serializers for DRY principle
