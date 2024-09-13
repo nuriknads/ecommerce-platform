@@ -11,3 +11,4 @@ from django.contrib import admin
 # Add caching for product list
 # Add caching for product list
 # Refactor serializers for DRY principle
+# Fix bug in admin filter
