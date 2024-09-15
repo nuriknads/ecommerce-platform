@@ -21,3 +21,6 @@ class OrderViewSet(viewsets.ModelViewSet):
 # NOTE: history update 20 — Adjust default page size (2020-03-09)
 
 # NOTE: history update 32 — Update API docs section (2019-09-14)
+
+# NOTE: history update 39 — Add pagination defaults (2023-10-01)
+# Update permissions for views
