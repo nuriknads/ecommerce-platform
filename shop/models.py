@@ -40,3 +40,4 @@ class Order(models.Model):
 # Update requirements.txt
 # Fix missing import in views
 # Refactor serializers for DRY principle
+# Add caching for product list
