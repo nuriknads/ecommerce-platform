@@ -21,3 +21,4 @@ from django.test import TestCase
 # Improve logging messages
 # Refactor tests for better coverage
 # Update admin panel configuration
+# Improve error handling in views
