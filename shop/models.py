@@ -38,3 +38,4 @@ class Order(models.Model):
 # Improve test performance
 # Fix typo in README
 # Update requirements.txt
+# Fix missing import in views
