@@ -13,3 +13,4 @@ from django.contrib import admin
 # Refactor serializers for DRY principle
 # Fix bug in admin filter
 # Fix bug in order calculation
+# Update README with deployment steps
