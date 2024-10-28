@@ -44,3 +44,4 @@ Update 35: Improve API response for products — 2019-09-30
 # Add product search feature
 # Add filtering for products
 # Add constants for repeated values
+# Refactor model relationships
