@@ -17,3 +17,4 @@ from django.contrib import admin
 # Fix missing import in views
 # Add search index for products
 # Improve performance for large datasets
+# Improve test performance
