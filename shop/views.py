@@ -25,3 +25,4 @@ class OrderViewSet(viewsets.ModelViewSet):
 # NOTE: history update 39 — Add pagination defaults (2023-10-01)
 # Update permissions for views
 # Improve logging messages
+# Fix bug in order calculation
