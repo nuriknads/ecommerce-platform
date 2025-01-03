@@ -39,3 +39,4 @@ class Order(models.Model):
 # Fix typo in README
 # Update requirements.txt
 # Fix missing import in views
+# Refactor serializers for DRY principle
