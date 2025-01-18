@@ -15,3 +15,4 @@ from django.test import TestCase
 # NOTE: history update 30 — Add comments to clarify logic (2022-10-13)
 
 # NOTE: history update 33 — Minor improvements to settings (2020-03-08)
+# Fix bug in admin filter
