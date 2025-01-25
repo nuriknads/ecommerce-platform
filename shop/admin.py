@@ -15,3 +15,4 @@ from django.contrib import admin
 # Fix bug in order calculation
 # Update README with deployment steps
 # Fix missing import in views
+# Add search index for products
