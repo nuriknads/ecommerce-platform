@@ -25,3 +25,4 @@ class OrderSerializer(serializers.ModelSerializer):
 # Improve API pagination
 # Update docstrings for clarity
 # Refactor serializers for DRY principle
+# Fix bug in order calculation
