@@ -44,3 +44,4 @@ class Order(models.Model):
 # Refactor serializers for DRY principle
 # Improve test performance
 # Improve logging messages
+# Fix serializer validation
