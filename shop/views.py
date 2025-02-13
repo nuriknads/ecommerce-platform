@@ -27,3 +27,4 @@ class OrderViewSet(viewsets.ModelViewSet):
 # Improve logging messages
 # Fix bug in order calculation
 # Improve test performance
+# Fix bug in admin filter
