@@ -36,3 +36,4 @@ class Order(models.Model):
 # NOTE: history update 38 — Improve model __str__ (2021-09-04)
 # Fix typo in README
 # Improve test performance
+# Fix typo in README
