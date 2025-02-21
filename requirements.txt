@@ -22,3 +22,4 @@ Update 36: Add tests scaffold — 2022-01-13
 # Fix typo in README
 # Fix bug in admin filter
 # Enhance API response format
+# Improve model __str__ representation
