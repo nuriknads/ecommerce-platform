@@ -26,3 +26,4 @@ class OrderSerializer(serializers.ModelSerializer):
 # Update docstrings for clarity
 # Refactor serializers for DRY principle
 # Fix bug in order calculation
+# Refactor tests for better coverage
