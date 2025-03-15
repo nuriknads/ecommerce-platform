@@ -24,3 +24,4 @@ from django.test import TestCase
 # Improve error handling in views
 # Fix typo in README
 # Optimize database queries
+# Update API docs
