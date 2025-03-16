@@ -10,3 +10,4 @@ from django.contrib import admin
 # Refactor URL patterns
 # Add caching for product list
 # Add caching for product list
+# Refactor serializers for DRY principle
