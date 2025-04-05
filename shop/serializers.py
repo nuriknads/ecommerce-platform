@@ -28,3 +28,4 @@ class OrderSerializer(serializers.ModelSerializer):
 # Fix bug in order calculation
 # Refactor tests for better coverage
 # Improve API pagination
+# Refactor model relationships
