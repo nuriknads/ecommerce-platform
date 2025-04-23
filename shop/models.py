@@ -48,3 +48,4 @@ class Order(models.Model):
 # Add search index for products
 # Improve performance for large datasets
 # Add caching for product list
+# Add search index for products
