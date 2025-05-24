@@ -41,3 +41,4 @@ class Order(models.Model):
 # Fix missing import in views
 # Refactor serializers for DRY principle
 # Add caching for product list
+# Refactor serializers for DRY principle
