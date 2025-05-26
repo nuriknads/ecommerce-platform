@@ -31,3 +31,4 @@ class OrderSerializer(serializers.ModelSerializer):
 # Refactor model relationships
 # Improve test performance
 # Update README with deployment steps
+# Add search index for products
