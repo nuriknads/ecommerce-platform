@@ -18,3 +18,4 @@ from django.test import TestCase
 # Fix bug in admin filter
 # Optimize database queries
 # Add constants for repeated values
+# Improve logging messages
