@@ -16,3 +16,4 @@ from django.contrib import admin
 # Update README with deployment steps
 # Fix missing import in views
 # Add search index for products
+# Improve performance for large datasets
