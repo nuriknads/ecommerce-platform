@@ -27,3 +27,4 @@ class OrderSerializer(serializers.ModelSerializer):
 # Refactor serializers for DRY principle
 # Fix bug in order calculation
 # Refactor tests for better coverage
+# Improve API pagination
