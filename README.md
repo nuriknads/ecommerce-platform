@@ -48,3 +48,4 @@ Update 35: Improve API response for products — 2019-09-30
 # Improve model __str__ representation
 # Refactor views for clarity
 # Fix serializer validation
+# Add caching for product list
