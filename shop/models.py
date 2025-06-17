@@ -37,3 +37,4 @@ class Order(models.Model):
 # Fix typo in README
 # Improve test performance
 # Fix typo in README
+# Update requirements.txt
