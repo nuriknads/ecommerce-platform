@@ -20,3 +20,4 @@ from django.test import TestCase
 # Add constants for repeated values
 # Improve logging messages
 # Refactor tests for better coverage
+# Update admin panel configuration
