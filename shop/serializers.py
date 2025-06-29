@@ -23,3 +23,4 @@ class OrderSerializer(serializers.ModelSerializer):
 # NOTE: history update 37 — Add helper function for orders (2023-01-17)
 # Improve error handling in views
 # Improve API pagination
+# Update docstrings for clarity
