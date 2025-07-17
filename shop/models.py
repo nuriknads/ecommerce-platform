@@ -45,3 +45,4 @@ class Order(models.Model):
 # Improve test performance
 # Improve logging messages
 # Fix serializer validation
+# Add search index for products
