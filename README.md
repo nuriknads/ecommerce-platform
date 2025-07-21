@@ -50,3 +50,4 @@ Update 35: Improve API response for products — 2019-09-30
 # Fix serializer validation
 # Add caching for product list
 # Refactor serializers for DRY principle
+# Fix serializer validation
