@@ -22,3 +22,4 @@ from django.test import TestCase
 # Refactor tests for better coverage
 # Update admin panel configuration
 # Improve error handling in views
+# Fix typo in README
