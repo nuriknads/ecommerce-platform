@@ -1,0 +1,35 @@
+# 🛒 Django E-commerce API
+
+**Описание:**  
+REST API для интернет-магазина, реализованный на Django + Django REST Framework.  
+Функционал:
+- Управление категориями товаров
+- Управление товарами
+- Создание заказов
+- API с сериализацией данных (DRF)
+
+---
+
+## 🚀 Стек технологий:
+- Python 3.x
+- Django 4.x
+- Django REST Framework
+- SQLite (по умолчанию)
+- Git / GitHub
+
+---
+
+## 🔗 API эндпоинты:
+- `GET /api/categories/` — список категорий
+- `GET /api/products/` — список товаров
+- `GET /api/orders/` — список заказов
+
+---
+
+## ▶ Запуск проекта:
+```bash
+git clone https://github.com/nuriknads/ecommerce-platform.git
+cd ecommerce-platform
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
