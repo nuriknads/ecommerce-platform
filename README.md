@@ -41,3 +41,6 @@ Update 27: Refactor views for DRF best practices — 2023-03-05
 Update 34: Update docstrings — 2022-12-22
 
 Update 35: Improve API response for products — 2019-09-30
+# Add product search feature
+# Add filtering for products
+# Add constants for repeated values
