@@ -1,36 +1,45 @@
-📝 Blog API  
-REST API для блога с поддержкой постов, категорий, комментариев и JWT-аутентификации.  
-Реализован на Django + Django REST Framework с документацией Swagger.  
+🛒 Django E-commerce API
+Описание:
+REST API для интернет-магазина, реализованный на Django + Django REST Framework.
 
-## 📌 Функционал:
-- Управление постами (CRUD)
-- Категории и теги
-- Система комментариев
-- JWT-аутентификация
-- Swagger-документация API
+Функционал:
+- Управление категориями товаров
+- Управление товарами
+- Создание заказов
+- API с сериализацией данных (DRF)
 
-## 🚀 Стек технологий:
+🚀 Стек технологий:
 - Python 3.x
 - Django 4.x
 - Django REST Framework
-- Simple JWT
-- drf-spectacular (Swagger Docs)
 - SQLite (по умолчанию)
+- Git / GitHub
 
-## 🔗 Примеры эндпоинтов:
-GET /api/posts/ — список постов  
-POST /api/posts/ — создать пост  
-GET /api/categories/ — список категорий  
-POST /api/token/ — JWT-токен  
+🔗 API эндпоинты:
+GET /api/categories/ — список категорий
+GET /api/products/ — список товаров
+GET /api/orders/ — список заказов
 
-## ▶ Запуск проекта:
-```bash
-git clone https://github.com/nuriknads/blog-api.git
-cd blog-api
-python -m venv venv
-source venv/bin/activate  # (Linux/Mac)
-venv\Scripts\activate     # (Windows)
+▶ Запуск проекта:
+git clone https://github.com/nuriknads/ecommerce-platform.git
+cd ecommerce-platform
 pip install -r requirements.txt
 python manage.py migrate
-python manage.py createsuperuser
 python manage.py runserver
+
+Update 12: Improve model __str__ — 2023-05-23
+Update 27: Refactor views for DRF best practices — 2023-03-05
+Update 34: Update docstrings — 2022-12-22
+Update 35: Improve API response for products — 2019-09-30
+
+# Add product search feature
+# Add filtering for products
+# Add constants for repeated values
+# Refactor model relationships
+# Improve model __str__ representation
+# Refactor views for clarity
+# Fix serializer validation
+# Add caching for product list
+# Refactor serializers for DRY principle
+# Fix serializer validation
+# Optimize database queries
